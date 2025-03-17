@@ -113,12 +113,6 @@
             <url>http://localhost:8081/repository/maven-releases/</url>
         </repository>
 
-        <!-- <repository>
-            <id>github</id>
-            <name>GitHub OWNER Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/Avesh-code/maven_calc</url>
-        </repository> -->
-
     </distributionManagement>
 
 
