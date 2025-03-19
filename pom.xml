@@ -13,7 +13,7 @@
         <maven.compiler.target>8</maven.compiler.target>
         <sonar.host.url>http://localhost:9000</sonar.host.url>
         <sonar.projectKey>Maven-code-coverage-check</sonar.projectKey>
-        <sonar.login>squ_0402bd6f01e1c3d9fd11d5d9dd4d58162a33404d</sonar.login>
+        <sonar.login>squ_629a5346f8108a38b09c6dbc267eb8bfba5bc8db</sonar.login>
 
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
